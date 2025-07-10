@@ -27,16 +27,16 @@ Explore everything under the **[Work](https://writer-portfolio-evpe.vercel.app/w
 
 ## 📁 Project Structure
 
-/app
-/components → Navbar, shared UI
-/resume → Resume page
-/work → Writing samples
-/contact → Contact form (if added)
-/page.tsx → Homepage
-/public
-/images → Thumbnails for articles
-/styles
-globals.css → Global Tailwind styles
+- /app
+- /components → Navbar, shared UI
+- /resume → Resume page
+- /work → Writing samples
+- /contact → Contact form 
+- /page.tsx → Homepage
+- /public
+- /images → Thumbnails for articles
+- /styles
+- globals.css → Global Tailwind styles
 
 ---
 
