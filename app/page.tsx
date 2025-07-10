@@ -36,12 +36,13 @@ export default function Home() {
               Writer. Word nerd. <br /> Always searching for meaning in words.
             </h1>
             <p className="mt-6 text-lg text-gray-700 font-sans leading-relaxed">
-              If there’s one thing I know, it’s that the right words can make people think, feel, or even hit "share."<br/>
+              If there’s one thing I know, it’s that the right words can make people think, feel, or even hit &quot;share&quot;.<br/>
               Whether it’s a compelling article, a sharp review, or a story that tugs at the heart, I craft content that sticks.
             </p>
             <p className="mt-4 text-lg text-gray-700 font-sans leading-relaxed">
-              Let’s turn ideas into something worth reading (and re-reading).
+              Let&rsquo;s turn ideas into something worth reading (and re-reading).
             </p>
+
 
             {/* Buttons Section */}  
             <div className="mt-8 flex justify-center md:justify-start space-x-6">
