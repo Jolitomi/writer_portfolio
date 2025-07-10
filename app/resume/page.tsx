@@ -41,7 +41,7 @@ export default function Resume() {
                 <p className="text-lg text-gray-700 font-medium">Apr 2022 - Sep 2022</p>
                 <h3 className="font-bold text-2xl mt-2">IT Intern, Living Trust Mortgage Bank, Osun, Nigeria</h3>
                 <p className="text-gray-700 mt-2 leading-relaxed">
-                • Evaluated the bank's new mobile app, providing creative reviews on usability and design  
+                • Evaluated the bank&rsquo;s new mobile app, providing creative reviews on usability and design  
                 <br/>• Identified and reported potential user experience issues.
                 <br/>• Assisted in IT-related tasks, strengthening problem-solving and technical skills 
                 </p>
