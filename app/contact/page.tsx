@@ -52,13 +52,13 @@ export default function Contact() {
 
         {/* Right Side - Contact Form */}
         <form 
-          action="https://formsubmit.co/el/zewilu" 
-          method="POST" 
+            action="https://formsubmit.co/omojolaayotomiwa13@gmail.com" method="POST"
+
+        
           className="space-y-6 bg-white p-10 rounded-xl shadow-2xl"
         >
           <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you" />
-
+          
           <div className="grid grid-cols-2 gap-4">
             <input
               type="text"
