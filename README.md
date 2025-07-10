@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✍️ Ayotomiwa Omojola — Writer Portfolio
 
-## Getting Started
+Welcome to my official writing portfolio — a curated collection of my best work across personal storytelling, content writing, tech reviews, finance, and case studies.
 
-First, run the development server:
+Built with **Next.js + Tailwind CSS**, and deployed on **Vercel**, this site is both elegant and functional — just like great writing should be.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Preview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+👉 [writer-portfolio.vercel.app](https://writer-portfolio-evpe.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🗂️ Categories of My Work
 
-To learn more about Next.js, take a look at the following resources:
+- **Personal / Creative Writing**
+- **Productivity & Self-Improvement**
+- **Finance & Money Management**
+- **Tech & Writing Tools Reviews**
+- **Business & Case Studies**
+- **Cultural & Societal Commentary**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Explore everything under the **[Work](https://writer-portfolio-evpe.vercel.app/work)** tab.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📁 Project Structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+/app
+/components → Navbar, shared UI
+/resume → Resume page
+/work → Writing samples
+/contact → Contact form (if added)
+/page.tsx → Homepage
+/public
+/images → Thumbnails for articles
+/styles
+globals.css → Global Tailwind styles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🚀 Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/) – for subtle animations
+- [Vercel](https://vercel.com/) – for deployment
+
+---
+
+## 🧠 Author
+
+**Ayotomiwa Omojola**  
+🎯 Content Writer | Storyteller | Aspiring Data Analyst  
+📍 Nigeria  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayotomiwa-omojola-89732932a/)  
+🖋️ [Medium](https://medium.com/@omojolaayotomiwa13)  
+📩 omojolaayotomiwa13@gmail.com  
+
+---
+
+## 📝 License
+
+This project is open-source. Feel free to fork, clone, or adapt — but please give credit where it's due.
